@@ -1,4 +1,11 @@
-## Hi there 👋
+# 👋 Hi, I'm Tracy
+🎓 Data & Product Specialist | 🎯 Aspiring Product Manager | 📊 Analyst | 🎵 Musician  
+📍 Based in Boston | 💼 Open to roles in Product, Data, or Strategy
+
+## 🧠 About Me
+I'm a passionate analyst about leveraging data, design, and product thinking to solve real-world problems.
+
+With hands-on experience in analytics, AI, and product strategy across multiple industries (tech, retail, finance, and public policy), I love working on data-driven products and helping teams transform insights into impact.
 
 <!--
 **TracyJHC/TracyJHC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
