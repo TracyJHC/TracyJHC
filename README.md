@@ -24,10 +24,9 @@ A passionate Analyst about leveraging data, design, and product thinking to solv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
-
   <!-- Data & Analysis -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Excel_2013_logo.svg" alt="Excel" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo_black.svg" alt="Power BI" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
