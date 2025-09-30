@@ -4,7 +4,8 @@
 📍 Based in Boston | 💼 Open to roles in Product, Data, or Strategy
 
 <h3 align="center"> 🧠 About Me
-  A passionate Analyst about leveraging data, design, and product thinking to solve real-world problems.</h3>
+  
+A passionate Analyst about leveraging data, design, and product thinking to solve real-world problems.</h3>
 
 - 🔭 I’m currently working on **Allston Brighton Community Development Corporation: Harvard Allston Project**
 
