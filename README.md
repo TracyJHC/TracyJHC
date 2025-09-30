@@ -1,9 +1,10 @@
 
-
 <h1 align="center">Hi 👋, I'm Tracy</h1>
 🎓 Data & Product Specialist | 🎯 Aspiring Product Manager | 📊 Analyst | 🎵 Musician  
 📍 Based in Boston | 💼 Open to roles in Product, Data, or Strategy
-<h3 align="center">A passionate Analyst about leveraging data, design, and product thinking to solve real-world problems.</h3>
+
+<h3 align="center"> 🧠 About Me
+  A passionate Analyst about leveraging data, design, and product thinking to solve real-world problems.</h3>
 
 - 🔭 I’m currently working on **Allston Brighton Community Development Corporation: Harvard Allston Project**
 
