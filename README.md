@@ -7,7 +7,10 @@
   
 A passionate Analyst about leveraging data, design, and product thinking to solve real-world problems.</h3>
 
-- Recent Projects: Lower Allston Analysis Project[], Machine Unlearning Project [https://github.com/TracyJHC/Machine-Unlearning-Project/tree/main]
+Recent Projects:
+- Lower Allston Analysis Project[https://github.com/TracyJHC/Lower-Allston-Analysis-Project]
+- Machine Unlearning Project [https://github.com/TracyJHC/Machine-Unlearning-Project/tree/main]
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/TracyJHC](https://github.com/TracyJHC)
 
