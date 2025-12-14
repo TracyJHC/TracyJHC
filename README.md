@@ -7,8 +7,6 @@
   
 A passionate Analyst about leveraging data, design, and product thinking to solve real-world problems.</h3>
 
-- 🔭 I’m currently working on **Allston Brighton Community Development Corporation: Harvard Allston Project**
-
 - 👨‍💻 All of my projects are available at [https://github.com/TracyJHC](https://github.com/TracyJHC)
 
 - ⚡ Fun fact **I am a bassoon performer~**
